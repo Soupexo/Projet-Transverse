@@ -43,6 +43,5 @@ Dans la barre de menus :
 
 ## Lancer l’application
 
-1. Ouvrez le package contenant la classe principale  
-2. Clic droit sur le fichier contenant la méthode `main`  
-3. Cliquez sur :
+1. Ouvrez le package **Application**
+2. Exécuter maintenant le fichier **ApplicationCiup.java**
