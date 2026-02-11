@@ -26,6 +26,8 @@ Ouvrez Eclipse et sélectionnez (ou créez) le workspace dans lequel vous souhai
 
 Dans la barre de menus :
 
+`File > Import... > General > Existing Projects into Workspace > Next`
+
 ### Sélectionner le dossier du projet
 
 - Cocher **Select root directory**  
