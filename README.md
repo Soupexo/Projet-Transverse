@@ -1,5 +1,48 @@
-# Projet-Transverse
-Logiciel de gestion d’étudiants développé en Java, avec interfaces graphiques réalisées en Java Swing et AWT.
 
-# Clônage
-Pour cloner le repo, faites : 'git clone https://github.com/Soupexo/Projet-Transverse.git'.
+# Clonage
+Pour cloner le repo, faites : 'git clone https://github.com/Soupexo/Projet-Transverse.git' dans le répertoire de votre choix.
+
+# 📥 Importer le projet dans Eclipse
+
+Ce guide explique comment importer le projet dans un workspace Eclipse existant.
+
+---
+
+## Prérequis
+
+- Eclipse installé sur votre machine  
+- Le dossier du projet déjà cloné ou dézippé  
+
+---
+
+## Étapes d’importation
+
+### Lancer Eclipse
+Ouvrez Eclipse et sélectionnez (ou créez) le workspace dans lequel vous souhaitez travailler.
+
+---
+
+### Ouvrir le menu d’import
+
+Dans la barre de menus :
+
+### Sélectionner le dossier du projet
+
+- Cocher **Select root directory**  
+- Cliquer sur **Browse...**  
+- Sélectionner le dossier `Projet-Transverse` (cloné ou dézippé)
+
+---
+
+### Vérifier l’import
+
+- Vérifier que le projet apparaît dans la liste des projets détectés  
+- Cliquer sur **Finish**
+
+---
+
+## Lancer l’application
+
+1. Ouvrez le package contenant la classe principale  
+2. Clic droit sur le fichier contenant la méthode `main`  
+3. Cliquez sur :
